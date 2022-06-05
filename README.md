@@ -1,2 +1,2 @@
-# pass-generator
-Simple Password Generator with Javascript
+# Pass-generator
+Simple Password Generator with JavaScript
